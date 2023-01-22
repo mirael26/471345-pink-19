@@ -1,56 +1,22 @@
-# Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Эльмира Ильясова](https://up.htmlacademy.ru/adaptive/19/user/471345).
-* Наставник: [Вадим Канинский](https://htmlacademy.ru/profile/id78842).
+## Описание 
 
----
+Учебный проект по верстке сайта для фото-соцсети.
 
-**Обратите внимание, что папка с вашими исходными файлами — `source/`.**
+Верстка по методологии БЭМ, адаптивная верстка под три формата устройств, ретина.
 
-Полезный файл:
+Используемые технологии: ``HTML``, ```SCSS```, ```БЭМ```
 
-- [Contributing.md](Contributing.md) — руководство по внесению изменений.
+[Демо-версия проекта](https://mirael26.github.io/pink-demo/)
 
-_Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.editorconfig`, `.gitattributes`, `.gitignore`, `.stylelintrc`, `.travis.yml`, `package-lock.json`, `package.json`._
+## Установка
 
----
+* установите [NodeJS](https://nodejs.org/), если он еще не установлен
+* скачайте проект архивом или с помощью команды: ```git clone https://github.com/mirael26/471345-pink-19```
+* перейдите в скачанную папку с проектом
+* для установки зависимостей введите команду: ```npm i```
+* чтобы начать работу, введите команду: ```npm start```
 
-### Памятка
-
-#### 1. Зарегистрируйтесь на Гитхабе
-
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
-
-#### 2. Создайте форк
-
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-adaptive/471345-pink-19) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
-
-<img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60808088-259e3a80-a190-11e9-98f7-3c0edd9740f5.jpg">
-
-Получится вот так:
-
-<img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60808087-2505a400-a190-11e9-8caa-2e7584c702cc.jpg">
-
-#### 3. Клонируйте репозиторий на свой компьютер
-
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Также обратите внимание, что клонировать репозиторий нужно через SSH, а не через HTTPS. Нажмите зелёную кнопку в правой части экрана, чтобы скопировать SSH-адрес вашего репозитория:
-
-<img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60808090-259e3a80-a190-11e9-8a64-c58d94803b73.jpg">
-
-Клонировать репозиторий можно так:
-
-```
-git clone SSH-адрес_вашего_форка
-```
-
-Команда клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
-
-#### 4. Начинайте обучение!
-
----
-
-<a href="https://htmlacademy.ru/intensive/adaptive"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github-2.png"></a>
 
 Репозиторий создан для обучения на профессиональном онлайн‑курсе «[HTML и CSS, уровень 2](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
 
